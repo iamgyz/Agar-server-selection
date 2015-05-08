@@ -1,4 +1,5 @@
 # Agar-server-selection
+For http://agar.io  
 Allow you to specify your server IP
 
 ### Usage  
